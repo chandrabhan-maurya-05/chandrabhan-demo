@@ -1,4 +1,5 @@
 # chandrabhan-demo
 This is my first Repository.
 <br>
-Author - Chandrabhan maurya
+Author - Chandrabhan (apna college)
+
